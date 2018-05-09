@@ -75,8 +75,11 @@ dependencies:
     - cachetools==2.0.1
     - click==6.6
     - gitlint==0.10.0
+    - google-api-python-client==1.6.7
     - google-auth==1.4.1
+    - google-auth-oauthlib==0.2.0
     - greenlet==0.4.13
+    - httplib2==0.11.3
     - ipykernel==4.8.2
     - ipywidgets==7.2.1
     - msgpack==0.5.6
@@ -84,6 +87,8 @@ dependencies:
     - notebook==5.4.1
     - nuitka==0.5.30
     - numpy==1.14.3
+    - oauth2client==4.1.2
+    - oauthlib==2.0.7
     - packaging==17.1
     - pyasn1==0.4.2
     - pyasn1-modules==0.2.1
@@ -91,7 +96,9 @@ dependencies:
     - python-anticaptcha==0.3.1
     - python-slugify==1.2.5
     - pyxdg==0.26
+    - requests-oauthlib==0.8.0
     - rsa==3.4.2
+    - uritemplate==3.0.0
     - widgetsnbextension==3.2.1
     - wpm==1.50.3
 prefix: /home/gemabrow/.conda/envs/auth2
